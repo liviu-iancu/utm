@@ -24,7 +24,7 @@
         <h4 class="mt-5">Facultatea de Științe Economice | FINANŢE ŞI BĂNCI </h4>        
       </div>
 
-      <p class="lead">Lista fisiere pentru proiect</p>
+      <p class="lead">Lista de resurse si proiecte pentru disciplinele de studiu</p>
       <div class="table-responsive">
         <table class="table text-center">
           <thead>
@@ -35,27 +35,16 @@
           </thead>
           <tbody>
             <tr>
-              <th scope="row" class="text-start">Proiect Word</th>              
-              <td><a href="Proiect-IANCU_LIVIU_FB_ID_102.docx" rel="noopener" target="_blank">Acceseaza</a></td>
-            </tr>       
-			
-			<tr>
               <th scope="row" class="text-start">Proiect Excel </th>              
               <td><a href="Proiect_IANCU_LIVIU_FB_ID_102.xlsm" rel="noopener" target="_blank">Acceseaza</a></td>
             </tr>
-			
 			<tr>
-              <th scope="row" class="text-start">Proiect Powerpoint</th>              
-              <td><a href="Proiect-IANCU_LIVIU_FB_ID_102.pptx" rel="noopener" target="_blank">Acceseaza</a></td>
-            </tr>           
-			
-			<tr>
-              <th scope="row" class="text-start">CV Liviu Iancu</th>              
-              <td><a href="CV-Liviu-Iancu-EN.docx" rel="noopener" target="_blank">Acceseaza</a></td>
+              <th scope="row" class="text-start">Proiect Word</th>              
+              <td><a href="Proiect-IANCU_LIVIU_FB_ID_102.docx" rel="noopener" target="_blank">Acceseaza</a></td>
             </tr>           
 			<tr>
-              <th scope="row" class="text-start">Sursa Proiect HTML</th>              
-              <td><a href="surse-html.txt" rel="noopener" target="_blank">Acceseaza</a></td>
+              <th scope="row" class="text-start">Proiect HTML</th>              
+              <td><a href="index.txt" rel="noopener" target="_blank">Acceseaza</a></td>
             </tr>           
           </tbody>
         </table>
